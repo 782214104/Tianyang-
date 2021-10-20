@@ -7,9 +7,12 @@
 # Softwares and programming language
 #Visio Studio #Excel #Tableau #JMP #SQL Server #Python #VBA 
 
+#My Projects
 
-[,<img src="Buttons/SVG/python project.svg" height="30"  width="auto"/>](# python)
-<br>
+
+![image](https://github.com/Tianyang Yang]/[reponame]/blob/Pictures/JMP.jpg?raw=true)
+![JMP](JMP.png)
+
 <!---
 782214104/782214104 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
