@@ -13,6 +13,13 @@
 # Softwares and programming language
 Visio Studio   /   Excel     /  Tableau     /  JMP      /   SQL Server    /   Python /   VBA 
 
+
+
+
+
+
+
+
 # My Projects
 
 
