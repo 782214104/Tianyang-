@@ -1,16 +1,15 @@
 - 👋 Hi, I’m @Tianyang Yang
 - 👀 I’m interested in Learning business analytics.
 - 🌱 I’m currently learning Data Warehousing and Project Management.
-- 💞️ 
 - 📫 How to reach me Tianyang.Yang@du.edu
 
 # Softwares and programming language
 #Visio Studio #Excel #Tableau #JMP #SQL Server #Python #VBA 
 
-#My Projects
+# My Projects
 
 
-![image](https://github.com/Tianyang Yang]/[reponame]/blob/Pictures/JMP.jpg?raw=true)
+![Tableau](Tableau.png)
 ![JMP](JMP.png)
 
 <!---
