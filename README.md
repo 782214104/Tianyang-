@@ -2,11 +2,14 @@
 - 📫 I am a BA major senior student of University of Denver.
 - 👀 I’m interested in Learning business analytics, playing video games.
 - 🌱 I’m currently learning Data Warehousing and Project Management.
-- 📫 How to reach me Tianyang.Yang@du.edu
+- 📫 How to reach me Tianyang.Yang@du.edu.
+
 <!---
-Tianyang-/Tianyang- is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tianyang/Tianyang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+Hey, this appears on my profile page.
 
 
 
