@@ -4,6 +4,11 @@
 - 🌱 I’m currently learning Data Warehousing and Project Management.
 - 📫 How to reach me Tianyang.Yang@du.edu
 
+<!---
+782214104/Tianyang- is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
 # Career Aspiration
 -Data Analyst
 
