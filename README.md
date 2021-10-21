@@ -4,10 +4,7 @@
 - 🌱 I’m currently learning Data Warehousing and Project Management.
 - 📫 How to reach me Tianyang.Yang@du.edu
 
-<!---
-Tianyang-/Tianyang- is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
 
 # Career Aspiration
 -Data Analyst
@@ -36,6 +33,6 @@ Visio Studio   /   Excel     /  Tableau     /  JMP      /   SQL Server    /   Py
 ![Report](Report.png)
 -For this project, I wrote build script code for my project SkiResort which is the process of measuring the sales for the ski classes of the 3 resorts. And I built the forms and reports in Vissio Studio about the project.
 <!---
-782214104/782214104 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tianyang-/Tianyang- is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
